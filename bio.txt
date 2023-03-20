@@ -10,9 +10,9 @@ Empezare contando los números del 1 al 9, pero solo los impares
 
 1, 3, 5, 7, 9
 
-Ahora decidire contar hasta de 10 a 20 con los pares
+Ahora decidire contar hasta de 10 a 20 con los pares y un solo impar
 
-10, 12, 14, 16, 18, 20
+10, 12, 14, 15, 16, 18, 20
 
 Ahora por aca agregare otros números casuales:
 
