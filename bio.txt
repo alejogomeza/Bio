@@ -1,3 +1,8 @@
+
+##########################################
+ Esto es una especia de cabecera
+##########################################
+
 Este es un texto de prueba,
 
 Empezare contando los números del 1 al 10, pero solo los impares
